@@ -1,2 +1,2 @@
-#silahkan pake
- amel
+silahkan pake
+wm=amel
